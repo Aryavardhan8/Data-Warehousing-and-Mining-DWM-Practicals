@@ -1,8 +1,11 @@
 # Data Warehousing and Mining(DWM) Practicals
 
  Student Name: Aryavardhan Deshmukh
+ 
  PRN: 22070521115
+ 
  Semester: VI
+ 
  Section: C
 
 
