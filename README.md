@@ -26,13 +26,21 @@ Practicals Implemented
  No.   Practical Title	                     Key Concepts
  
 1️⃣	  Handling Missing Values              	Mean/mode imputation, interpolation, removal
+
 2️⃣	  ETL Data Flow Transformations   	    Extract, Transform, Load (ETL), filtering, aggregation
+
 3️⃣	  OLAP Operations on Data Cube         	Roll-up, drill-down, slice, dice
+
 4️⃣	  Apriori Algorithm   	                Frequent itemset mining, association rules
+
 5️⃣	  Naïve Bayes Classifier               	Text classification, probability-based predictions
+
 6️⃣	  K-Nearest Neighbors (KNN)            	Classification, evaluating model performance
+
 7️⃣	  K-Means Clustering                    Unsupervised learning, cluster visualization
+
 8️⃣	  Decision Tree Algorithm             	Rule-based classification, entropy & information gain
+
 9️⃣	  Linear Regression   	                Predictive modeling, RMSE, R² score
 
 
