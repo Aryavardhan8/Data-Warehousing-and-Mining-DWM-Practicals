@@ -1,1 +1,1 @@
-# Data-Warehousing-and-Mining-DWM-Practicals
+# Data Warehousing and Mining(DWM) Practicals
